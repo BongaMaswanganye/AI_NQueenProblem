@@ -1,0 +1,13 @@
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.csprojAssemblyReference.cache
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.AssemblyInfoInputs.cache
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.AssemblyInfo.cs
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.csproj.CoreCompileInputs.cache
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.exe
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.deps.json
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.runtimeconfig.json
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.runtimeconfig.dev.json
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.dll
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\bin\Debug\netcoreapp3.1\NqueenHillClimbing.pdb
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.dll
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.pdb
+C:\Users\Bonga\Desktop\AI ASSIGNMENTS\AI_Assignment_2\NqueenHillClimbing\obj\Debug\netcoreapp3.1\NqueenHillClimbing.genruntimeconfig.cache
